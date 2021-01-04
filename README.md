@@ -1,1 +1,0 @@
-# Psychological_orientation_prediction-LGBM-XGB-RandomForest
